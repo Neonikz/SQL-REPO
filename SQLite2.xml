@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <apellido>Paz</apellido>
+       <nombre>Matemática Discreta</nombre>
+       <turno>Tarde</turno>
+    </row>
+    <row>
+       <apellido>Correa</apellido>
+       <nombre>null</nombre>
+       <turno>null</turno>
+    </row>
+    <row>
+       <apellido>Diaz</apellido>
+       <nombre>Programacion Java</nombre>
+       <turno>Noche</turno>
+    </row>
+    <row>
+       <apellido>Martinez</apellido>
+       <nombre>Programacion Web</nombre>
+       <turno>Noche</turno>
+    </row>
+    <row>
+       <apellido>Rios</apellido>
+       <nombre>Programacion en C#</nombre>
+       <turno>Noche</turno>
+    </row>
+</items>
